@@ -1,6 +1,6 @@
 # React Handson
 
-# Seup build env
+# Setup
 
 ```bash
 npm install -g yarn
