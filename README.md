@@ -71,8 +71,7 @@ yarn webpack-serve --port 10000
 ## With Babel@7
 
 ```bash
-yarn add @babel/core @babel/preset-env @babel/preset-react babel-loader@8.0.0-beta
-.4 -D
+yarn add @babel/core @babel/preset-env @babel/preset-react babel-loader@8.0.0-beta.4 -D
 echo '{ "presets": ["@babel/preset-env", "@babel/preset-react"] }' > .babelrc
 ```
 
